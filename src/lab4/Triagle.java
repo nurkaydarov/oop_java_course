@@ -23,14 +23,14 @@ public class Triagle {
         return this.p = this.a + this.b + this.c;
     }
 
-    public void showDegree(){
+/*    public void showDegree(){
         double A = Math.acos(Math.pow(this.b, 2) + Math.pow(this.c, 2) - Math.pow(this.a, 2)) / (2 * this.b * this.c);
         double B = Math.acos(Math.pow(this.a, 2) + Math.pow(this.c, 2) - Math.pow(this.b, 2)) / (2 * this.a * this.c);
         double C = Math.acos(Math.pow(this.b, 2) + Math.pow(this.a, 2) - Math.pow(this.c, 2)) / (2 * this.b * this.a);
         System.out.println("Угол В "+ B);
         System.out.println("Угол A "+ A);
         System.out.println("Угол C "+ C);
-    }
+    }*/
 
 
 
